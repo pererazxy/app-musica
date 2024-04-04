@@ -8,7 +8,10 @@ export default function Home({ navigation }) {
     id: 1,
     title: "É ISSO BEBÊ, TA CERTA",
     group: "Mc IG",
-    album_image: "https://i.scdn.co/image/ab67616d00001e0244e36e6146fe2da790a1c86f"
+    album_image: "https://i.scdn.co/image/ab67616d00001e0244e36e6146fe2da790a1c86f",
+    album: "TMOIG",
+    year: "2024",
+    genre: "Funk",
 
   }
   return (
